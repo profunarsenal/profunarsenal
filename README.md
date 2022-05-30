@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @profunarsenal
 - 👀 I’m interested in IT technology
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on it company
+- 💞️ I’m looking to collaborate on IT company
 - 📫 My contact email: profunarsenal@gmail.com
 
 <!---
