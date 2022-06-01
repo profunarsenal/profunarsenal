@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @profunarsenal
-- 👀 I’m interested in IT technology
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on IT company
-- 📫 My contact email: profunarsenal@gmail.com
-
-<!---
-profunarsenal/profunarsenal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/](https://vk.com/profunarsenal" target="_blank">Dmitry</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend developer from Samara</h3>
